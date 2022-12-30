@@ -5,4 +5,4 @@ This mini-shell support cd command to change directory, step back and going to h
 This mini-shell support ctrl +c to kill the children processes and stop the program.
 This mini-shell support logfile to know which process is working at the time you want.
 There is a-makefile attached to run the shell.
-This shell is written using lex, yacc, c++ languages.
+This shell is written using lex, yacc, c and c++ languages.
